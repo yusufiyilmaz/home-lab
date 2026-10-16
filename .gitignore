@@ -1,0 +1,9 @@
+# Gerçek loglar asla commit'lenmez
+*.log
+*.auth
+auth.log*
+
+# Sanal makine dosyaları
+*.vdi
+*.vmdk
+*.ova
