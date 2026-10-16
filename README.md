@@ -33,6 +33,7 @@ flowchart LR
 | # | Senaryo | Teknik | Durum |
 |---|---|---|---|
 | 1 | [SSH brute force ve tespiti](senaryolar/01-ssh-brute-force.md) | T1110.001, T1078.003 | ✅ |
+| 2 | [Başarısız yetki yükseltme denemesi](senaryolar/02-yetki-yukseltme-denemesi.md) | T1548.003 | ✅ |
 
 ## İlgili proje
 
